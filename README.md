@@ -29,16 +29,6 @@ The project follows a complete machine learning pipeline:
 
 - **Model Performance**: The Random Forest model demonstrated robust performance, effectively capturing complex relationships within the data.
 
-## Repository Structure
-
-- `data/`: Contains the dataset used for training and evaluation.
-
-- `notebooks/`: Jupyter notebooks detailing each step of the project, from data exploration to model evaluation.
-
-- `src/`: Source code for data preprocessing, feature engineering, and model training.
-
-- `README.md`: Project overview and instructions.
-
 
 
 
