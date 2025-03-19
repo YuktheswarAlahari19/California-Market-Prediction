@@ -40,9 +40,6 @@ The project follows a complete machine learning pipeline:
 - `README.md`: Project overview and instructions.
 
 
-This README provides a structured overview of your project, guiding users through its purpose, methodology, and how they can engage with the content.
-::contentReference[oaicite:1]{index=1}
- 
 
 
 
