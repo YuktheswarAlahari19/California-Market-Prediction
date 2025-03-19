@@ -1,6 +1,6 @@
 # California Housing Prices Prediction
 
-This project is an implementation of the End-to-End Machine Learning Project outlined in Chapter 2 of "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron. The objective is to develop a model that accurately predicts the median housing prices in California districts using various features such as population, median income, and location.
+This project is an implementation of the End-to-End Machine Learning Project .The objective is to develop a model that accurately predicts the median housing prices in California districts using various features such as population, median income, and location.
 
 ## Project Overview
 
